@@ -8,3 +8,19 @@ h3{
 .package-details p{
     line-height:5px;
 }
+
+.hot{
+    position: absolute;
+    left: 210px;
+    bottom: 350px;
+    background-image: linear-gradient(rgb(250, 121, 15), rgba(247, 4, 4, 0.945));
+    border: 1px;
+    border-radius: 13px;
+    padding: 5px 10px;
+    color: white;
+
+}
+
+footer{
+    height: 800px;
+}
