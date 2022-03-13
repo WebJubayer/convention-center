@@ -20,7 +20,17 @@ h3{
     color: white;
 
 }
+a{
+    text-decoration: none;
+    color: white;
+}
+.android-play-store{
+    margin-left: 20px;
+}
 
 footer{
-    height: 800px;
+    height: 300px;
 }
+/* .app-store p{
+    font: size 10px;;
+} */
